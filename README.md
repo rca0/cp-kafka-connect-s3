@@ -1,2 +1,3 @@
 # cp-kafka-connect-s3
-Public Dockerfile
+
+Public confluentinc kafka-connect-s3 config Dockerfile
